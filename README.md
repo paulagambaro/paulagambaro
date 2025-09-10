@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou a Paula! 👋
 
-<!--
-**paulagambaro/paulagambaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub.
 
-Here are some ideas to get you started:
+## 👩‍💻 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Objetivo: me tornar programadora
+- 🌱 Em constante aprendizado nas tecnologias e desenvolvimento de software
+
+## 🚀 Minhas habilidades
+
+- Linguagens: Java, Python (em aprendizado e aprimoramento na faculdade)
+- Ferramentas: Git
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/paula-milena-borba-gâmbaro-b06309209)
+- E-mail: paula.gambaro@hotmail.com
+
+---
+
+Obrigada por visitar meu perfil! 😊
